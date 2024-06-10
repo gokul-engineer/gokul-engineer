@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gokul K @gokulkkk
+- 👋 Hi, I’m Gokul K
 - 👀 I’m interested in enhancing Businesses using data science and AI
 - 🌱 I’m currently learning Data Science, AI, ML, DL
 - 💞️ I’m looking to collaborate on Data science Projects.
