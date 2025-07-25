@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Gokul K
 
-I'm a data-minded operations professional turned automation engineer — passionate about making real-world workflows smarter, faster, and scalable.
+I'm a data professional and process automation engineer — passionate about making real-world workflows smarter, faster, and scalable.
 
 🔧 I specialize in identifying repetitive manual tasks and transforming them using:
-- 🐍 Python
+- 🐍 Python, Numpy, Pandas, matplotlib, pyspark
 - 📊 Excel + Power Query + Power Pivot + M Code + DAX
 - 📁 Google sheets + Google Apps Script(Java script)
 - 📦 Power BI
