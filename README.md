@@ -48,7 +48,7 @@ I'm a data professional and process automation engineer — passionate about mak
 
 ## 📬 Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/goki) *(update this)*
+- 🔗 [LinkedIn](https://linkedin.com/in/goki)
 - 📧 gokulkalai5@gmail.com
 
 ---
