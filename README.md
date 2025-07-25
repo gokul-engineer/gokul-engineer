@@ -25,7 +25,7 @@ I'm a data professional and process automation engineer — passionate about mak
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [📁 QR Code + Folder Generator](https://github.com/gokul-engineer/bulk-qr-svg-generator) | Automates Google Drive folder creation and QR code generation from Excel inputs | Apps Script, Python |
+| [📁 QR Code Generator](https://bulk-qr-svg-generator-bedmin4gprwqtouujoyxkk.streamlit.app/) | Automates Google Drive folder creation and QR code generation from Excel inputs | Apps Script, Python |
 
 ---
 
