@@ -4,8 +4,8 @@ I'm a data-minded operations professional turned automation engineer — passion
 
 🔧 I specialize in identifying repetitive manual tasks and transforming them using:
 - 🐍 Python
-- 📊 Excel + Power Query
-- 📁 Google Apps Script
+- 📊 Excel + Power Query + Power Pivot + M Code + DAX
+- 📁 Google sheets + Google Apps Script(Java script)
 - 📦 Power BI
 - 🔌 Data pipelines & automation
 
@@ -14,10 +14,10 @@ I'm a data-minded operations professional turned automation engineer — passion
 ## 🚀 What I Do
 
 - ✅ Automate operational workflows (folders, QR codes, drawings)
-- ✅ Data Analysis using the business data to arrive at the decision.
+- ✅ Analyze business data to support decision-making
 - ✅ Build internal tools to save time and eliminate manual work
 - ✅ Bridge the gap between data, people, and processes
-- ✅ Focus on **real-world impact**, not just code
+- ✅ Focus on **real-world impact**, not just writing code
 
 ---
 
@@ -25,18 +25,14 @@ I'm a data-minded operations professional turned automation engineer — passion
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [📁 QR Code + Folder Generator](https://github.com/gokul-k/qr-code-folder-generator) | Automates folder creation in Google Drive and QR code generation from Excel | Apps Script, Python |
-| [📏 Slab Drawing Generator](https://github.com/gokul-k/slab-drawing-generator) | Auto-draws kitchen countertop slab layouts from Excel measurements | Python, Excel |
-| [📨 Excel to Email Bulk Sender](https://github.com/gokul-k/python-email-bulk-sender) *(planned)* | Send personalized emails from Excel using Python | Python, SMTP |
-| [📊 Power BI Dashboard – Supply Chain](https://github.com/gokul-k/client-dashboard-powerbi) *(planned)* | Visual analytics dashboard for logistics & material supply | Power BI, DAX |
+| [📁 QR Code + Folder Generator](https://github.com/gokul-engineer/bulk-qr-svg-generator) | Automates Google Drive folder creation and QR code generation from Excel inputs | Apps Script, Python |
 
 ---
 
 ## 📈 Real-World Results
 
-✅ Saved 90% time in document sharing via folder & QR automation  
-✅ Eliminated 80% drafting effort in slab drawings  
-✅ Enabled engineers and coordinators to focus on high-value tasks  
+- ✅ Saved 90% of time in document sharing using automated folder and QR generation  
+- ✅ Empowered engineers and coordinators to focus on high-value work
 
 > 💡 I don’t just write code — I solve business pain.
 
@@ -45,7 +41,6 @@ I'm a data-minded operations professional turned automation engineer — passion
 ## 📚 Currently Learning
 
 - `dbt`, `DuckDB`, `LangChain`
-- SAP basics (MM, SD)
 - Python for AI workflows
 - End-to-end Data Engineering
 
@@ -53,10 +48,9 @@ I'm a data-minded operations professional turned automation engineer — passion
 
 ## 📬 Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 yourname@email.com
-- 🌐 [Portfolio Website](#) *(optional)*
+- 🔗 [LinkedIn](https://linkedin.com/in/goki) *(update this)*
+- 📧 gokulkalai5@gmail.com
 
 ---
 
-🧾 **License:** MIT — Feel free to use my code with attribution  
+🧾 **License:** MIT — Feel free to use or adapt my work with attribution.
